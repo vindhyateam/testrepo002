@@ -1,0 +1,19 @@
+
+<RoleDesignTime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleDesignTime"
+	typeVersion="0242a425-d150-11e7-e026-4d289331252b"
+	RuntimeDocumentID="00505601-6737-A1F0-9B3C-CAF7CF209130">
+	<DocumentID>00505601-6737-A1F0-9B3C-CAF7CF205130</DocumentID>
+	<Name>jijii</Name>
+	<Description>jijii</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2025-07-30T03:23:28.878</CreationDate>
+	<Notes/>
+	<DistinguishedName>cn=#roleName#, cn=#ISVPName#, #LDAPRoot#</DistinguishedName>
+	<ExposeForReuse>false</ExposeForReuse>
+	<type>Functional</type>
+	<Subroles/>
+	<Superroles/>
+	<configuredTasks/>
+</RoleDesignTime>
